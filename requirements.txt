@@ -1,0 +1,8 @@
+pandas
+matplotli
+seaborn
+plotly
+scikit-learn
+gradio
+tabulate
+Pillow
