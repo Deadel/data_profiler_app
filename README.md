@@ -43,7 +43,7 @@ Data Profiler App to lekka aplikacja webowa stworzona w Pythonie, która pozwala
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## 📁 Struktura projektu
 data_profiler_app/
