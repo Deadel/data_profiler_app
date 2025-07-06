@@ -1,0 +1,11 @@
+ID,Age,Salary,Department,Gender,Target
+1,25,50000,Sales,M,0
+2,30,60000,Marketing,F,1
+3,35,,HR,F,0
+4,40,80000,Sales,M,1
+5,,75000,IT,F,1
+6,45,90000,HR,M,0
+7,50,NaN,NaN,F,1
+8,29,62000,IT,M,0
+9,33,67000,Sales,,1
+10,38,72000,Marketing,F,0
