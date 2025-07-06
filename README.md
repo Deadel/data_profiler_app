@@ -46,6 +46,7 @@ pip install -r requirements.txt
 ```
 
 ## 📁 Struktura projektu
+```
 data_profiler_app/
 ├── app.py              # główny plik aplikacji Gradio
 ├── utils.py            # funkcje do analizy danych i modelu ML
@@ -53,7 +54,7 @@ data_profiler_app/
 ├── requirements.txt    # lista pakietów Python
 ├── models/             # folder z zapisanymi modelami (tworzony automatycznie)
 └── README.md           # ten plik
-
+```
 
 ## 📝 Uwagi
 Aplikacja oczekuje dobrze sformatowanego pliku CSV (separator ,, bez błędów formatowania).
